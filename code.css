@@ -72,58 +72,62 @@
 /* 2nd picture paragraph*/
 .year{
     position: absolute;
-    top: 140%;
-    left: 55%;
+    top: 110%;
+    left: 33%;
     text-align: center;
     font-family: 'Work Sans';
     width: 500px;
-    height: 60px;
+    height: 70px;
     font-weight: 800;
-    font-size: 40px;
+    font-size: 25px;
+    gap: 50px;
 }
 /* 2nd pic er image background*/
 .img{
-    background-color: cadetblue;
+    
+    position:absolute;
+    
+    left: 10%;
+    
+    
     border-top: 250px;
 }
 .describe{
     position: absolute;
-    top: 160%;
-    left: 60%;
-    text-align: justify;
+    top: 20%;
+    left: 150%;
+    text-align: left;
     width: 300px;
     height: 15px;
 }
 /* MY PLAN STEP*/
 .plan{
     position: absolute;
-    text-align: center;
-    font-size: 70px;
-    top:240% ;
-    left: 40%;
+    top: 140%;
+    left: 100%;
+    width: 400px;
+    font-weight: 2000;
+    font-size: 100px;
 }
 .related{
     position: absolute;
-    left: 20%;
-    top:270% ;
-    
+    left:100%;
+    top:190% ;
 }
 .web{
     position: absolute;
-    left: 40%;
-    top:270% ;
+    left: 125%;
+    top:192% ;
 }
 .commerce{
     position: absolute;
-    left: 60%;
-    top:270% ;
-    
-
+    left: 160%;
+    top: 190%;
 }
 .tweet{
     position: absolute;
-    left:80%;
-    top:270% ;
+    left:200%;
+    top: 190%;
     
 }
 p span{
@@ -135,7 +139,7 @@ p span{
 /* IMAGE BLEND STEP*/
 .gradient{
     position: absolute;
-    top: 300%;
+    top: 255%;
     background: url("images/watch.png");
     background-blend-mode:color-burn;
     left: 17%;
@@ -158,7 +162,7 @@ p span{
 .lastpart{
     position: absolute;
     background-color: black;
-    top:360% ;
+    top:300% ;
     height: 350px;
     width: 1500px;
    
