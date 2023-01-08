@@ -1,0 +1,168 @@
+.banner{
+    text-align: center;
+    position: relative;
+}
+/* paragraph 1st*/
+.area{
+    position: absolute;
+    top: 35%;
+    left: 70%;
+    font-family: 'Work Sans';
+    text-align: right;
+    width: 185px;
+    height: 60px;
+    font-weight: 900;
+    font-size: 40px;
+       
+}
+/*love image*/
+.love{
+
+   position: absolute;
+   text-align: right;
+   top: 62%;
+   left: 1250px;
+   background-color: rgb(247, 241, 241);
+
+
+}
+/*paragrapg*/
+.life{
+    position: absolute;
+    top: 69%;
+    left: 70%;
+    text-align: right;
+    width: 200px;
+    height: 30px;
+}
+/*button contact*/
+.contact{
+    background-color:orangered;
+    font-family: sans-serif;
+    border: none;
+    border-radius: 10px;
+    width: 90px;
+    height: 45px;
+    position: absolute;
+    top: 87%;
+    left: 77%;
+    text-align: center;
+     color:white;
+
+}
+.main{
+    text-align: center;
+    position: absolute;
+}
+.year{
+    position: absolute;
+    top: 140%;
+    left: 55%;
+    text-align: center;
+    font-family: 'Work Sans';
+    width: 500px;
+    height: 60px;
+    font-weight: 800;
+    font-size: 40px;
+
+}
+.img{
+    background-color: cadetblue;
+    border-top: 250px;
+}
+.describe{
+    position: absolute;
+    top: 160%;
+    left: 60%;
+    text-align: justify;
+    width: 300px;
+    height: 15px;
+    
+
+}
+.plan{
+    position: absolute;
+    text-align: center;
+    font-size: 70px;
+    top:240% ;
+    left: 40%;
+    
+    
+}
+.related{
+    position: absolute;
+    left: 20%;
+    top:270% ;
+    
+}
+.web{
+    position: absolute;
+    left: 40%;
+    top:270% ;
+}
+.commerce{
+    position: absolute;
+    left: 60%;
+    top:270% ;
+    
+
+}
+.tweet{
+    position: absolute;
+    left:80%;
+    top:270% ;
+    
+}
+p span{
+    color: greenyellow;
+    display: flex;
+    
+    
+}
+.gradient{
+    position: absolute;
+    top: 300%;
+    background: url("images/watch.png");
+    background-blend-mode:color-burn;
+    left: 17%;
+    width: 1000px;
+    height: 250px;
+}
+.lastpart{
+    position: absolute;
+    background-color: black;
+    top:360% ;
+    height: 350px;
+    width: 1500px;
+   
+}
+.type1{
+    position: absolute;
+    left: 5%;
+    color: floralwhite;
+    font-display:block;
+    width: 320px;
+}
+.subscribe{
+    position: absolute;
+    left: 70%;
+    width: 245px;
+    height: 204px;
+    color: rgb(249, 247, 246);
+    font-weight: 500px;
+}
+.btn{
+    background-color:rgb(252, 245, 236);
+    font-family: sans-serif;
+    border: none;
+    border-radius: 7px;
+    width: 92px;
+    height: 30px;
+    position: absolute;
+    
+    top: 50% ;
+    left: 0%;
+    color: darkorange;
+   
+
+}
